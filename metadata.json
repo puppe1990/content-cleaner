@@ -1,0 +1,5 @@
+{
+  "name": "Content Cleaner AI",
+  "description": "An intelligent tool that strips raw web code (HTML/CSS/JS) down to its essential text content and images using Gemini AI.",
+  "requestFramePermissions": []
+}
